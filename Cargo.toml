@@ -1,0 +1,6 @@
+[package]
+name = "process_pairs"
+version = "0.1.0"
+authors = ["Kjetil Kjeka <kjetilkjeka@gmail.com>"]
+
+[dependencies]
